@@ -1,0 +1,14 @@
+.main {
+  background-color: rgb(58, 3, 110);
+  bottom: 0;
+  position: fixed;
+  width: 100%;
+  padding: 10px;
+  text-align: center;
+  font-size: 1.4em;
+  font-weight: bold;
+  color: rgb(229, 220, 234);
+}
+.item {
+  margin: 50px;
+}

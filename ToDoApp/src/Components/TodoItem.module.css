@@ -1,0 +1,25 @@
+.item {
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+  padding: 25px;
+  border-radius: 8px;
+  margin: 0 auto;
+}
+.itemName {
+  font-weight: bold;
+  color: rgb(49, 48, 48);
+  font-size: 20px;
+}
+.deletebtn {
+  float: right;
+  padding: 12px 20px;
+  background-color: rgb(58, 3, 110);
+  border: none;
+  margin-top: -5px;
+  color: rgb(229, 220, 234);
+  border-radius: 4px;
+  cursor: pointer;
+}
+.checked {
+  text-decoration: line-through;
+  cursor: pointer;
+}
