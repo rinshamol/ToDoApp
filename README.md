@@ -1,4 +1,3 @@
-https://github.com/rinshamol/todo-list-react.git
 # Simple Todo List App Using React
 
 A minimalistic todo list application built using React. This app allows users to manage their tasks efficiently by providing features to add, delete, and mark tasks as completed.
